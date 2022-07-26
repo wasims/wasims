@@ -1,0 +1,147 @@
+/* CSS Layout Document for 'TheSmallHost' home page */
+
+
+
+body {
+	font-size: 15px;
+	background-color: #fff;
+}
+#mainheading {
+	width: 60%;
+	margin: 0em auto 0em auto;
+	text-align: center;
+	font-size: 6em;
+	font-weight: 700;
+	letter-spacing: -0.01em;
+	font-family: 'Playfair Display', serif;
+}
+#subheading {
+	width: 60%;
+	margin: 1em auto 0em auto;
+	text-align: left;
+	font-size: 2em;
+	font-weight: 500;
+	letter-spacing: -0.01em;
+	line-height: 1.4em;
+	font-family: 'Roboto', sans-serif;
+	color: #323232;
+}
+.maincontent {
+	width: 60%;
+	margin: 1em auto 0em auto;
+	text-align: left;
+	font-size: 2em;
+	font-weight: 300;
+	letter-spacing: -0.01em;
+	line-height: 1.4em;
+	font-family: 'Roboto', sans-serif;
+	color: #323232;
+}
+
+
+
+#bottomtextone {
+	width: 60%;
+	margin: 1em auto 0em auto;
+	text-align: left;
+	font-size: 2em;
+	font-weight: 300;
+	letter-spacing: -0.01em;
+	line-height: 1.4em;
+	font-family: 'Roboto', sans-serif;
+	color: #D93C00;
+}
+#bottomtexttwo {
+	width: 60%;
+	margin: 1em auto 0em auto;
+	text-align: left;
+	font-size: 2em;
+	font-weight: 300;
+	letter-spacing: -0.01em;
+	line-height: 1.4em;
+	font-family: 'Roboto', sans-serif;
+	color: #323232;
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+MEDIA QUERIE RULE
+Media querie code should always go at the end of the whole CSS code.
+Media querie code always starts with @media screen and (max-width: 680px) { CSS CODE GOES HERE }
+or 
+@media (orientation: landscape)  (max-width: 680px) { CSS CODE GOES HERE }
+@media (orientation: portrait) (max-width: 680px) { CSS CODE GOES HERE }
+'max-width' = Designing for a desktop first working your way down to mobile
+'min-width' = Designing for a mobile first working your way up to desk top 
+*/
+
+
+
+
+@media screen and (max-width: 680px) {  
+
+body {
+	font-size: 12px;
+	background-color: #222222;
+}
+#mainheading {
+	width: 85%;
+	font-size: 7em;
+ 	color: #4E4E4E;
+}
+#subheading {
+	width: 85%;
+	color: #E4E4E4;
+}
+.maincontent {
+	width: 85%;
+	color: #FFFFFF;
+}
+
+
+#bottomtextone {
+	display: none;
+}
+#bottomtexttwo {
+	width: 85%;
+	font-size: 1.5em;
+	color: #FF8E00;
+	display: block;
+	margin-top: 2em;
+	padding-top: 1em;
+	border-top: 1px dotted #D56A00;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+div class = .link ( use many times )
+div id = #link ( use once )
+*/
