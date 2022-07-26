@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**wasims/wasims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **wasims/wasims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 - 👋 Hi, I’m @wasims
 - 👀 I’m interested in learning about coding and design
