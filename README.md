@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m @wasims
 - 👀 I’m not actually a coder.
-- 🌱 But I do know how write simple HTML & CSS.
-- 🌱 I also use Affinity Designer, Affinity Publisher and Affinity Photo.  
+- 🌱 But I do know how to write simple HTML & CSS.
+- 🌱 I also switched over from the Adobe suite to the free Affinity software by Canva.  
 - 📫 How to reach me: wasim.uk
 - ⚡ Fun fact: I'm in my mid 50's and I can still do 100 push ups in about 15 minutes, sometimes even 10 mins.
 
